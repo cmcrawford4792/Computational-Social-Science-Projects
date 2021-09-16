@@ -1,0 +1,98 @@
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L
+$ git clone https://github.com/cmcrawford4792/Computational-Social-Science-Projects.git
+Cloning into 'Computational-Social-Science-Projects'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L
+$ cd Computational-Social-Science-Projects/
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects (main)
+$ mkdir "Project 1"
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects (main)
+$ ls
+'Project 1'/   README.md
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects (main)
+$ cd Project\ 1/
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ git mkdir "Project 1"
+git: 'mkdir' is not a git command. See 'git --help'.
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ pwd
+/c/Users/cmcra/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ git add "Project1.txt"
+fatal: pathspec 'Project1.txt' did not match any files
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ git add Project1.txt
+fatal: pathspec 'Project1.txt' did not match any files
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ Project1.txt
+bash: Project1.txt: command not found
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ touch Project1.txt
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+
+git add 
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L
+$ git clone https://github.com/cmcrawford4792/Computational-Social-Science-Projects.git
+Cloning into 'Computational-Social-Science-Projects'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L
+$ cd Computational-Social-Science-Projects/
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects (main)
+$ mkdir "Project 1"
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects (main)
+$ ls
+'Project 1'/   README.md
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects (main)
+$ cd Project\ 1/
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ git mkdir "Project 1"
+git: 'mkdir' is not a git command. See 'git --help'.
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ pwd
+/c/Users/cmcra/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ git add "Project1.txt"
+fatal: pathspec 'Project1.txt' did not match any files
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ git add Project1.txt
+fatal: pathspec 'Project1.txt' did not match any files
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ Project1.txt
+bash: Project1.txt: command not found
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+$ touch Project1.txt
+
+cmcra@LAPTOP-6U4NCPK8 MINGW64 ~/OneDrive/Documents/UC Berkeley/SOCIOL 273L/Computational-Social-Science-Projects/Project 1 (main)
+
+git add Project1.txt
+
+git commit -m "added Project1.txt"
+
+git push
